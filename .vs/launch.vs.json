@@ -1,0 +1,13 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "dll",
+      "exe": "",
+      "project": "FS_5\\FS_5\\lw_20.fs",
+      "projectTarget": "",
+      "name": "lw_20.fs"
+    }
+  ]
+}

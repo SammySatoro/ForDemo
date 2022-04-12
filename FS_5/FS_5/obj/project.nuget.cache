@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i/mGhnUNEnyh7G/wJa8lltGf9OsTgsIJSDGxYlnBljuy5cJjDhyB7BOGEfY4wThmBUCc2L9l0HNNHtiq5+NZ4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Евгений\\Source\\Repos\\SammySatoro\\ForDemo\\FS_5\\FS_5\\FS_5.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Евгений\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
