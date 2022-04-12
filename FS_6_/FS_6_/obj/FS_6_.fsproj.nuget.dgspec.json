@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Евгений\\Source\\Repos\\SammySatoro\\ForDemo\\FS_6_\\FS_6_\\FS_6_.fsproj": {}
+    "C:\\Users\\Евгений\\source\\repos\\FS_6_\\FS_6_\\FS_6_.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\Евгений\\Source\\Repos\\SammySatoro\\ForDemo\\FS_6_\\FS_6_\\FS_6_.fsproj": {
+    "C:\\Users\\Евгений\\source\\repos\\FS_6_\\FS_6_\\FS_6_.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Евгений\\Source\\Repos\\SammySatoro\\ForDemo\\FS_6_\\FS_6_\\FS_6_.fsproj",
+        "projectUniqueName": "C:\\Users\\Евгений\\source\\repos\\FS_6_\\FS_6_\\FS_6_.fsproj",
         "projectName": "FS_6_",
-        "projectPath": "C:\\Users\\Евгений\\Source\\Repos\\SammySatoro\\ForDemo\\FS_6_\\FS_6_\\FS_6_.fsproj",
+        "projectPath": "C:\\Users\\Евгений\\source\\repos\\FS_6_\\FS_6_\\FS_6_.fsproj",
         "packagesPath": "C:\\Users\\Евгений\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Евгений\\Source\\Repos\\SammySatoro\\ForDemo\\FS_6_\\FS_6_\\obj\\",
+        "outputPath": "C:\\Users\\Евгений\\source\\repos\\FS_6_\\FS_6_\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
