@@ -9,6 +9,6 @@ let sortByLettersNumber (str:string) =
     resultingString
     
 
-let ForDemo19_14 = 
+let ForDemo19_14 =    
     printfn "%A" (sortByLettersNumber "qwer tyuiopa sd fgh jklz xc c vbn m")
     

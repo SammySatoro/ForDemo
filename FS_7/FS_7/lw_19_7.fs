@@ -1,6 +1,6 @@
 ﻿module lw_19_7
 
-let filterUppercase str = str |> String.filter (fun i -> i > 'A' && i < 'Z')
+let filterUppercase str = str |> String.filter (fun i -> i >= 'A' && i <= 'Z')
    
 let isPalindrome (str:string) =
     let charArray = str.ToCharArray() 
@@ -11,4 +11,4 @@ let isPalindrome (str:string) =
     
 
 let ForDemo19_7 = 
-    printfn "%A" (isPalindrome (filterUppercase "LO0LwOeLOrtLyO")) //OOLOO true
+    printfn "%A" (isPalindrome (filterUppercase "HagdAfdgdfHgdfg")) //HAH true
