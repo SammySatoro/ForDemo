@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="lw_20_5.fs" />
     <Compile Include="lw_19.fs" />
     <Compile Include="lw_19_14.fs" />
     <Compile Include="lw_19_7.fs" />
