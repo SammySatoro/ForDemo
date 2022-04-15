@@ -32,4 +32,3 @@ let printStrings strings =
 let ForDemo20_8 =
     printStrings (sortByQuadraticDeviation lines)
 
-
