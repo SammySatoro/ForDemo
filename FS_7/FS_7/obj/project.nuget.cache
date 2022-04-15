@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GFUl1djMZZCLUp5AZecbXtfu8x+qr6ECg7yBsgvOvKzxzWBy6fMEMiUmjSDTWET7KLYx2PcmFuXSLbkR2wG66g==",
+  "dgSpecHash": "+Omc9s5drUO1VmqnYjBlC2ZQhUYeyATSOkmT7v6TnXeEt1KL6KrSHQPNvU1v1wEy+5vjsK34meQdh4Y5lVmWCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Евгений\\Source\\Repos\\SammySatoro\\ForDemo\\FS_7\\FS_7\\FS_7.fsproj",
+  "projectFilePath": "C:\\Users\\Евгений\\source\\repos\\SammySatoro\\ForDemo\\FS_7\\FS_7\\FS_7.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Евгений\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+    "C:\\Users\\Евгений\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
   ],
   "logs": []
 }
