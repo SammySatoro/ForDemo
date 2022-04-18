@@ -24,3 +24,5 @@ C:\Users\Евгений\source\repos\SammySatoro\ForDemo\FS_8\FS_8\obj\Debug\net
 C:\Users\Евгений\source\repos\SammySatoro\ForDemo\FS_8\FS_8\obj\Debug\net6.0\FS_8.dll
 C:\Users\Евгений\source\repos\SammySatoro\ForDemo\FS_8\FS_8\obj\Debug\net6.0\FS_8.pdb
 C:\Users\Евгений\source\repos\SammySatoro\ForDemo\FS_8\FS_8\obj\Debug\net6.0\FS_8.genruntimeconfig.cache
+C:\Users\Евгений\source\repos\SammySatoro\ForDemo\FS_8\FS_8\bin\Debug\net6.0\FParsec.dll
+C:\Users\Евгений\source\repos\SammySatoro\ForDemo\FS_8\FS_8\bin\Debug\net6.0\FParsecCS.dll

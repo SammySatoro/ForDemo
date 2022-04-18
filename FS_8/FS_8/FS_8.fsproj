@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="lw_8_%28lw_7%29.fs" />
     <Compile Include="lw_8_%28lw_6%29.fs" />
     <Compile Include="lw_8_%28lw_5%29.fs" />
     <Compile Include="lw_8_%28lw_4%29.fs" />
