@@ -17,6 +17,11 @@ let button7 = new Button(Dock = DockStyle.Top, Text = "Check Boxes (lw_7)")
 let openForm7 _ =  lw_7.form.ShowDialog() |> ignore
 button7.Click.Add(openForm7)
 
+let button8 = new Button(Dock = DockStyle.Top, Text = "Difference (lw_8)")
+let openForm8 _ =  lw_8.form.ShowDialog() |> ignore
+button8.Click.Add(openForm8)
+
+main.Controls.Add(button8)
 main.Controls.Add(button7)
 main.Controls.Add(button6)
 main.Controls.Add(button5)
