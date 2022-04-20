@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="lw_6\lw_6.fs" />
     <Compile Include="lw_5\lw_5.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>

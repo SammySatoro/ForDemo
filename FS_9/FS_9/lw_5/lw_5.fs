@@ -2,8 +2,7 @@
 open System
 open System.Windows.Forms
 
-let form = new Form(Text = "Child form" ,Width = 480, Height = 240)
-
+let form = new Form(Text = "What season?" ,Width = 480, Height = 240)
 let months = 
                       [(["December"; "January"; "February"], "Winter");
                       (["March"; "April"; "May"], "Spring");
@@ -20,7 +19,6 @@ for i = 0 to 11 do
         buttons.[i].Click.Add(fun e -> MessageBox.Show($"{buttons.[i].Name}") |> ignore)
         form.Controls.Add(buttons.[i])
  
-do Application.Run(form)
     
     
     
