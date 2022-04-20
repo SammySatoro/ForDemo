@@ -21,6 +21,11 @@ let button8 = new Button(Dock = DockStyle.Top, Text = "Difference (lw_8)")
 let openForm8 _ =  lw_8.form.ShowDialog() |> ignore
 button8.Click.Add(openForm8)
 
+let button9 = new Button(Dock = DockStyle.Top, Text = "Delete items (lw_9)")
+let openForm9 _ =  lw_9.form.ShowDialog() |> ignore
+button9.Click.Add(openForm9)
+
+main.Controls.Add(button9)
 main.Controls.Add(button8)
 main.Controls.Add(button7)
 main.Controls.Add(button6)
