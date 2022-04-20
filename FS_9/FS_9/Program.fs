@@ -13,7 +13,11 @@ let button6 = new Button(Dock = DockStyle.Top, Text = "Seasons (lw_6)")
 let openForm6 _ = lw_6.openWin|> ignore
 button6.Click.Add(openForm6)
 
+let button7 = new Button(Dock = DockStyle.Top, Text = "Check Boxes (lw_7)")
+let openForm7 _ =  lw_7.form.ShowDialog() |> ignore
+button7.Click.Add(openForm7)
 
+main.Controls.Add(button7)
 main.Controls.Add(button6)
 main.Controls.Add(button5)
 
