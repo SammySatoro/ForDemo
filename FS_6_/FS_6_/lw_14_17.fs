@@ -23,7 +23,7 @@ let findMaxItemIndex list =
     loop list list.Head 0 0
 
 let swapMinWithMax list =
-    let rec loop list minInd maxInd index min max procList=
+    let rec loop list minInd maxInd index min max procList =
         match list with
         |head::tail ->
             let item = if index = minInd then max 

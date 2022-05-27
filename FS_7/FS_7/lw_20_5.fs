@@ -30,7 +30,7 @@ let findQuadraticDeviation (str:string) =
 let sortByQuadraticDeviation (linesArray:array<string>) = linesArray |> Array.sortBy (fun line -> findQuadraticDeviation line)
  
 let printStrings strings = 
-    strings |> Array.map (fun str -> printfn "%A" str)
+    strings |> Array.iter (fun str -> printfn "%A" str)
 
 
 let ForDemo20_5 =

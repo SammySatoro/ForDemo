@@ -11,5 +11,5 @@ let quantifyAverage list =
     loop list 0 0
 
 let ForDemo18_41 = 
-    let list = [1;2;3;4;5;6;7;8;9;10]
+    let list = [1;-2;3;-4;5;-6;7;-8;9;-10]
     printfn "%A" (quantifyAverage list)

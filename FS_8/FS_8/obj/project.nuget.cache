@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gdPzlHWYPDWB1XcqajpFlmoo3uCq71r3qEZoEeYnY5JmRoMFDB4JzgqJwuT2z91+demqP63dcbqYacegEQ2v/w==",
+  "dgSpecHash": "FHKfNMtZ6ngPyzFMkITTDRkL0mnoyIdL8+DTJfbJc/sKMdgcaTd3iRWc+NQ+tBpkz2XRhF1UGi5moXRZH3EJ6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Евгений\\source\\repos\\SammySatoro\\ForDemo\\FS_8\\FS_8\\FS_8.fsproj",
+  "projectFilePath": "C:\\Users\\Евгений\\Source\\Repos\\SammySatoro\\ForDemo\\FS_8\\FS_8\\FS_8.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\Евгений\\.nuget\\packages\\fparsec\\1.1.1\\fparsec.1.1.1.nupkg.sha512",
     "C:\\Users\\Евгений\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"

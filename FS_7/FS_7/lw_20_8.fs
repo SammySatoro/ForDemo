@@ -17,7 +17,7 @@ let findAverageWeight (str:string) =
 
 let findMaxAverageTriple (str:string) =
     (float)(([|0 .. (String.length str) - 3|], [|1 .. (String.length str) - 2|], [|2 .. (String.length str) - 1|]) 
-    |||> Array.map3 (fun i1 i2 i3 ->  (int)(str.[i1]) + (int)(str.[i2]) + (int)(str.[i3]))
+    |||> Array.map3 (fun i1 i3 i2 ->  (int)(str.[i1]) + (int)(str.[i2]) + (int)(str.[i3]))
     |> Array.max)
     / (float)(String.length str)
 

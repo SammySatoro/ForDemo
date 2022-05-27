@@ -13,5 +13,6 @@ let main argv =
     //lw17.Demo
     //lw18.Demo
     //lw19.Demo
-    lw20.Demo
+    //lw20.Demo
+    test.Demo
     0

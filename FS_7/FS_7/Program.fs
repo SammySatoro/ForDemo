@@ -84,7 +84,7 @@ let main argv =
     //lw_19_14.ForDemo19_14
     //lw_19.ForDemo19
     
-    //w_20_5.ForDemo20_5
+    lw_20_5.ForDemo20_5
     //lw_20_8.ForDemo20_8
-    lw_20.ForDemo20
+    //lw_20.ForDemo20
     0

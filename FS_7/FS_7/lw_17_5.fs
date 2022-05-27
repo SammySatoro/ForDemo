@@ -1,7 +1,5 @@
 ﻿module lw_17_5
 
-let createList n = List.init(n) (fun i -> System.Console.ReadLine()|>System.Int32.Parse)
-
 let isPrime n =
     let rec loop n div counter =
         if div <= 0 then counter = 2
@@ -31,4 +29,4 @@ let buildStrangeList list =
     List.map2 (fun i j -> if List.contains false i then [] else [j]) listOfListsOfContained list |> List.collect (fun i -> i)
 
 let ForDemo17 = 
-    printfn "%A" (buildStrangeList [52;2;1;34;100;71;7;14;25]) //[2; 1; 71; 7; 14] 
+    printfn "%A" (buildStrangeList [52;2;1;34;100;71;7;14;25;5]) //[2; 1; 71; 7; 14; 100; 25] 

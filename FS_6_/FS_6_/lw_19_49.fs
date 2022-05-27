@@ -51,5 +51,5 @@ let buildList list =
     loop list []
 
 let ForDemo19_49 =
-    let list = [1;2;3;4;5;6;7;8;9;10;26;43;56]
+    let list = [1;2;3;4;5;6;7;8;9;10;21;26;43;56]
     printfn "%A" (buildList list) // 1 2 3 5 7 13 43

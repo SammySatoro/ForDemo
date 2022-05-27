@@ -75,7 +75,7 @@ let quantifyArea (figure: GeometricalFigure) =
     match figure with
     | FRectangle(width, height) -> width * height
     | FSquare(side) -> side * side
-    |FCircle(radius) -> System.Math.PI * radius * radius
+    | FCircle(radius) -> System.Math.PI * radius * radius
 
 
 let ForDemo = 

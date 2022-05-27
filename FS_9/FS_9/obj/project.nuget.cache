@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6BSw2md3IxgVM7YcjPg7nkZkfUDoJfyz0etd44QnuBUJAJF6vKNwEJDybesd4WWDJmYSFOv3jy7gf4NEQdLXjQ==",
+  "dgSpecHash": "F84MbhMZ0E1VMIACbzCM5Mu1eQW4BMjwF1bORmNLQBh0/eimUHmqYs+0VW8hgEZgEP/Bi96nirni7OYf+Z+Thw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Евгений\\source\\repos\\SammySatoro\\ForDemo\\FS_9\\FS_9\\FS_9.fsproj",
+  "projectFilePath": "C:\\Users\\Евгений\\Source\\Repos\\SammySatoro\\ForDemo\\FS_9\\FS_9\\FS_9.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\Евгений\\.nuget\\packages\\fsharp.core\\6.0.3\\fsharp.core.6.0.3.nupkg.sha512"
   ],
